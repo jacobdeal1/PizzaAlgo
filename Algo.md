@@ -6,3 +6,5 @@
 4. Buy the pizzas
 5. Set up delivery
 6. Wait for pizzas
+7. Tip the delivery driver
+8. eat the pizza
